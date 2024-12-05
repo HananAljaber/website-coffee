@@ -25,6 +25,9 @@
 - **CSS3**: لتنسيق وتصميم الموقع، واستخدام تقنيات **CSS Grid** و **Flexbox**.
 - **JavaScript**: لإضافة تفاعلات ديناميكية للموقع مثل سلة التسوق ونموذج البحث.
 - **Google Fonts**: لتحسين مظهر الخطوط وتوفير خيارات متنوعة للنصوص.
+## لتصفح المشروع
+
+[تصفح الموقع هنا](https://hananaljaber.github.io/website-coffee/)
 
 ## كيفية تشغيل المشروع
 
@@ -32,4 +35,4 @@
    ```bash
    git clone https://github.com/your-username/coffee-shop-website.git
 
-   ## لتصفح المشروع https://hananaljaber.github.io/website-coffee/
+ 
