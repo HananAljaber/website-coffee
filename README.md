@@ -31,3 +31,5 @@
 1. قم بتحميل أو استنساخ المشروع إلى جهازك:
    ```bash
    git clone https://github.com/your-username/coffee-shop-website.git
+
+   ## لتصفح المشروع https://hananaljaber.github.io/website-coffee/
